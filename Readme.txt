@@ -1,2 +1,3 @@
 learning Git repository
-sharing is easy
+sharing is easy 
+testing push
